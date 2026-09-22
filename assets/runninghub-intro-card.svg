@@ -1,0 +1,23 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About RunningHub API">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1105"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="1200" height="210" rx="24"/>
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="1200" height="210" rx="24" fill="url(#bgGrad)" stroke="#2a3512" stroke-width="1"/>
+  <g clip-path="url(#cardClip)">
+  <text x="80" y="54" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif" font-size="16" fill="#d6ddcc"><tspan font-weight="700" fill="#ffffff">RunningHub API</tspan> 为生产环境而设计，一个接口驱动全模态 AI 生产力！</text>
+  <text x="80" y="82" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif" font-size="16" fill="#d6ddcc">无需管理多个服务商，即可生成图片、视频和 AI 内容：单一接口直连 <tspan font-weight="700" fill="#CCFF00">400+</tspan> 主流大模型，一秒轻松集成。</text>
+  <text x="80" y="110" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif" font-size="16" fill="#d6ddcc">ComfyUI 工作流免运维托管，按需弹性计量，支持细粒度权限控制与全链路加密，严格守护企业安全与业务隐私。</text>
+
+  <text x="80" y="144" font-family="Arial,sans-serif" font-size="12" fill="#93a086">Fast and affordable AI video generation API - RunningHub API is built for production. Access 400+ leading AI models through one API to generate images, videos, and more.</text>
+
+  <line x1="80" y1="166" x2="1120" y2="166" stroke="#232c11" stroke-width="1"/>
+  <text x="80" y="188" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif" font-size="14" fill="#a8b894">RunningHub 折扣获取与接口支持联系 · <tspan font-family="Arial,sans-serif" font-weight="600" fill="#CCFF00">zhenyuedong@haima.me</tspan></text>
+  <text x="1120" y="188" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#7d8a6a">runninghub.ai</text>
+  </g>
+</svg>
