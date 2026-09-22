@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://www.runninghub.ai/zh-cn/call-api?source=github" target="_blank" rel="noopener noreferrer">
-  <img src="assets/runninghub-intro-card.svg?v=3" alt="About RunningHub API — 产品介绍" width="100%">
+  <img src="assets/runninghub-intro-card.svg?v=4" alt="About RunningHub API — 产品介绍" width="100%">
 </a>
 
 我的项目由 [RunningHub](https://www.runninghub.ai/zh-cn/call-api?source=github) 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试

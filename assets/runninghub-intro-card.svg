@@ -25,7 +25,7 @@
   <text x="80" y="42" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff">RunningHub API</text>
   <line x1="80" y1="56" x2="1120" y2="56" stroke="#232c11" stroke-width="1"/>
   <circle cx="88" cy="83" r="3.5" fill="#CCFF00"/>
-  <text x="104" y="88" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif" font-size="14" fill="#d6ddcc">Seedance 满血版 API 接入<tspan font-weight="700" fill="#CCFF00">全网骨折价</tspan>，在线工具低至 <tspan font-weight="700" fill="#CCFF00">0.21元/秒</tspan>，节省 <tspan font-weight="700" fill="#CCFF00">60%-80%成本</tspan>！</text>
+  <text x="104" y="88" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif" font-size="14" fill="#d6ddcc"><tspan font-weight="700" fill="#CCFF00">Seedance</tspan> 满血版 API 接入<tspan font-weight="700" fill="#CCFF00">全网骨折价</tspan>，在线工具低至 <tspan font-weight="700" fill="#CCFF00">0.21元/秒</tspan>，节省 <tspan font-weight="700" fill="#CCFF00">60%-80%成本</tspan>！</text>
   <circle cx="88" cy="108" r="3.5" fill="#CCFF00"/>
   <text x="104" y="113" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif" font-size="14" fill="#d6ddcc">超稳定高并发高<tspan font-weight="700" fill="#CCFF00">折扣</tspan>，随用随充按需弹性付费，不捆绑不排队不抽卡</text>
   <circle cx="88" cy="133" r="3.5" fill="#CCFF00"/>
