@@ -14,11 +14,11 @@
 #### 💼 赞助支持 · Sponsor
 
 <a href="https://www.runninghub.ai/zh-cn/call-api?source=github" target="_blank" rel="noopener noreferrer">
-  <img src="assets/runninghub-banner-v3.svg" alt="RunningHub API — 单一接口直连 400+ 主流大模型" width="100%">
+  <img src="assets/runninghub-banner-v3.svg?v=3" alt="RunningHub API — 单一接口直连 400+ 主流大模型" width="100%">
 </a>
 
 <a href="https://www.runninghub.ai/zh-cn/call-api?source=github" target="_blank" rel="noopener noreferrer">
-  <img src="assets/runninghub-intro-card.svg?v=2" alt="About RunningHub API — 产品介绍" width="100%">
+  <img src="assets/runninghub-intro-card.svg?v=3" alt="About RunningHub API — 产品介绍" width="100%">
 </a>
 
-我的项目由 [RunningHub](https://www.runninghub.ai/zh-cn/call-api?source=github) 提供支持 · 单一接口直连 400+ 主流大模型，ComfyUI 免运维托管
+我的项目由 [RunningHub](https://www.runninghub.ai/zh-cn/call-api?source=github) 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试
