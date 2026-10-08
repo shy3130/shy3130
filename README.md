@@ -3,7 +3,7 @@
 - 🔭 **[tick-stock-panel](https://github.com/shy3130/tick-stock-panel)** · A 股智能量化工作台（自托管 · 选股 + 监控 + 回测）
 - 🌙 量化研究 · 开源工具 · AI 应用
 
-- 现已入驻**[爱发电]([https://github.com/shy3130/tick-stock-panel](https://afdian.com/a/shy3130))**
+- 现已入驻 **[爱发电]([https://github.com/shy3130/tick-stock-panel](https://afdian.com/a/shy3130))**
 
 📊  数据源插件化 · 分钟级策略执行 · AI 对话助手
 
