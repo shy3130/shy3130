@@ -3,11 +3,8 @@
 - 🔭 **[tick-stock-panel](https://github.com/shy3130/tick-stock-panel)** · A 股智能量化工作台（自托管 · 选股 + 监控 + 回测）
 - 🌙 量化研究 · 开源工具 · AI 应用
 
-<a href="https://github.com/shy3130/tick-stock-panel">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shy3130&repo=tick-stock-panel&theme=dark" alt="tick-stock-panel">
-</a>
 
-📊 4.5k+ Stars · 数据源插件化 · 分钟级策略执行 · AI 对话助手
+📊  数据源插件化 · 分钟级策略执行 · AI 对话助手
 
 ---
 
