@@ -1,0 +1,118 @@
+<svg width="920" height="280" viewBox="0 0 920 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="tick-stock-panel — A 股智能量化工作台">
+  <title>tick-stock-panel — A 股智能量化工作台 · 自托管 · 零运维 · LLM 驱动</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0a0e14"/>
+    </linearGradient>
+    <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#e879f9"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="orbV" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      @keyframes drift1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-20px,14px); } }
+      @keyframes drift2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(16px,-12px); } }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      @keyframes rise { from { opacity: 0; transform: translateY(7px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes pulse { 0%,100% { opacity: 0.9; } 50% { opacity: 0.35; } }
+      .orb-v { animation: drift1 13s ease-in-out infinite; }
+      .orb-c { animation: drift2 15s ease-in-out infinite; }
+      .candle { opacity: 0; animation: rise 0.5s cubic-bezier(0.32,0.72,0,1) forwards; }
+      .wick { opacity: 0; animation: rise 0.5s cubic-bezier(0.32,0.72,0,1) forwards; }
+      .trend { stroke-dasharray: 820; stroke-dashoffset: 820; animation: draw 2.8s 0.3s cubic-bezier(0.32,0.72,0,1) forwards; }
+      .dot { animation: pulse 2.4s ease-in-out infinite; }
+      text { user-select: none; }
+    </style>
+  </defs>
+
+  <rect width="920" height="280" rx="20" fill="url(#bg)"/>
+  <ellipse class="orb-v" cx="830" cy="26" rx="290" ry="190" fill="url(#orbV)"/>
+  <ellipse class="orb-c" cx="80" cy="292" rx="300" ry="200" fill="url(#orbC)"/>
+
+  <!-- chart grid -->
+  <g stroke="#1a212b" stroke-width="1">
+    <line x1="536" y1="120" x2="880" y2="120"/>
+    <line x1="536" y1="160" x2="880" y2="160"/>
+    <line x1="536" y1="200" x2="880" y2="200"/>
+  </g>
+
+  <!-- candlesticks (A-share: red = up, green = down) -->
+  <g stroke-width="2">
+    <line class="wick" x1="556" y1="205" x2="556" y2="233" stroke="#ef5350" style="animation-delay:0.35s"/>
+    <line class="wick" x1="578" y1="197" x2="578" y2="229" stroke="#26a69a" style="animation-delay:0.42s"/>
+    <line class="wick" x1="600" y1="189" x2="600" y2="215" stroke="#ef5350" style="animation-delay:0.49s"/>
+    <line class="wick" x1="622" y1="193" x2="622" y2="217" stroke="#26a69a" style="animation-delay:0.56s"/>
+    <line class="wick" x1="644" y1="179" x2="644" y2="209" stroke="#ef5350" style="animation-delay:0.63s"/>
+    <line class="wick" x1="666" y1="171" x2="666" y2="197" stroke="#26a69a" style="animation-delay:0.70s"/>
+    <line class="wick" x1="688" y1="159" x2="688" y2="193" stroke="#ef5350" style="animation-delay:0.77s"/>
+    <line class="wick" x1="710" y1="165" x2="710" y2="187" stroke="#26a69a" style="animation-delay:0.84s"/>
+    <line class="wick" x1="732" y1="149" x2="732" y2="181" stroke="#ef5350" style="animation-delay:0.91s"/>
+    <line class="wick" x1="754" y1="141" x2="754" y2="167" stroke="#26a69a" style="animation-delay:0.98s"/>
+    <line class="wick" x1="776" y1="129" x2="776" y2="165" stroke="#ef5350" style="animation-delay:1.05s"/>
+    <line class="wick" x1="798" y1="119" x2="798" y2="143" stroke="#26a69a" style="animation-delay:1.12s"/>
+    <line class="wick" x1="820" y1="105" x2="820" y2="139" stroke="#ef5350" style="animation-delay:1.19s"/>
+    <line class="wick" x1="842" y1="95" x2="842" y2="123" stroke="#26a69a" style="animation-delay:1.26s"/>
+    <line class="wick" x1="864" y1="83" x2="864" y2="121" stroke="#ef5350" style="animation-delay:1.33s"/>
+  </g>
+  <g>
+    <rect class="candle" x="551" y="212" width="10" height="14" rx="1.5" fill="#ef5350" style="animation-delay:0.35s"/>
+    <rect class="candle" x="573" y="204" width="10" height="18" rx="1.5" fill="#26a69a" style="animation-delay:0.42s"/>
+    <rect class="candle" x="595" y="196" width="10" height="12" rx="1.5" fill="#ef5350" style="animation-delay:0.49s"/>
+    <rect class="candle" x="617" y="200" width="10" height="10" rx="1.5" fill="#26a69a" style="animation-delay:0.56s"/>
+    <rect class="candle" x="639" y="186" width="10" height="16" rx="1.5" fill="#ef5350" style="animation-delay:0.63s"/>
+    <rect class="candle" x="661" y="178" width="10" height="12" rx="1.5" fill="#26a69a" style="animation-delay:0.70s"/>
+    <rect class="candle" x="683" y="166" width="10" height="20" rx="1.5" fill="#ef5350" style="animation-delay:0.77s"/>
+    <rect class="candle" x="705" y="172" width="10" height="8" rx="1.5" fill="#26a69a" style="animation-delay:0.84s"/>
+    <rect class="candle" x="727" y="156" width="10" height="18" rx="1.5" fill="#ef5350" style="animation-delay:0.91s"/>
+    <rect class="candle" x="749" y="148" width="10" height="12" rx="1.5" fill="#26a69a" style="animation-delay:0.98s"/>
+    <rect class="candle" x="771" y="136" width="10" height="22" rx="1.5" fill="#ef5350" style="animation-delay:1.05s"/>
+    <rect class="candle" x="793" y="126" width="10" height="10" rx="1.5" fill="#26a69a" style="animation-delay:1.12s"/>
+    <rect class="candle" x="815" y="112" width="10" height="20" rx="1.5" fill="#ef5350" style="animation-delay:1.19s"/>
+    <rect class="candle" x="837" y="102" width="10" height="14" rx="1.5" fill="#26a69a" style="animation-delay:1.26s"/>
+    <rect class="candle" x="859" y="90" width="10" height="24" rx="1.5" fill="#ef5350" style="animation-delay:1.33s"/>
+  </g>
+
+  <!-- trend line -->
+  <path class="trend" d="M556,208 L578,196 L600,192 L622,190 L644,176 L666,172 L688,160 L710,164 L732,152 L754,144 L776,132 L798,122 L820,108 L842,98 L864,82" stroke="url(#line)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.16" fill="none"/>
+  <path class="trend" d="M556,208 L578,196 L600,192 L622,190 L644,176 L666,172 L688,160 L710,164 L732,152 L754,144 L776,132 L798,122 L820,108 L842,98 L864,82" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle class="dot" cx="864" cy="82" r="4" fill="#22d3ee"/>
+
+  <!-- border hairline -->
+  <rect x="0.5" y="0.5" width="919" height="279" rx="19.5" stroke="url(#aurora)" stroke-opacity="0.55" stroke-width="1" fill="none"/>
+
+  <!-- stats -->
+  <text x="872" y="66" text-anchor="end" font-family="-apple-system, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="16" font-weight="700" fill="#e3b341">★ 5.9k <tspan fill="#8b949e" font-size="13" font-weight="500">&#160;&#160;·&#160;&#160;1.4k FORKS</tspan></text>
+
+  <!-- left content -->
+  <text x="49" y="66" font-family="-apple-system, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="13" font-weight="600" letter-spacing="3.5" fill="#22d3ee">OPEN SOURCE · FLAGSHIP</text>
+  <text x="46" y="122" font-family="ui-monospace, SFMono-Regular, JetBrains Mono, Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="#e6edf3">tick-stock-panel</text>
+  <rect x="48" y="138" width="300" height="3" rx="1.5" fill="url(#aurora)" opacity="0.9"/>
+  <text x="48" y="172" font-family="-apple-system, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="15" fill="#9aa4b2">A 股智能量化工作台 · 自托管 · 零运维 · LLM 驱动</text>
+
+  <!-- feature chips -->
+  <g font-family="-apple-system, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="13" font-weight="500">
+    <rect x="48" y="196" width="84" height="30" rx="15" fill="#161b22" stroke="#2d333b"/>
+    <text x="90" y="216" text-anchor="middle" fill="#c9d1d9">选股筛选</text>
+    <rect x="142" y="196" width="84" height="30" rx="15" fill="#161b22" stroke="#2d333b"/>
+    <text x="184" y="216" text-anchor="middle" fill="#c9d1d9">实时监控</text>
+    <rect x="236" y="196" width="84" height="30" rx="15" fill="#161b22" stroke="#2d333b"/>
+    <text x="278" y="216" text-anchor="middle" fill="#c9d1d9">策略回测</text>
+    <rect x="330" y="196" width="88" height="30" rx="15" fill="#161b22" stroke="#2d333b"/>
+    <text x="374" y="216" text-anchor="middle" fill="#a78bfa">LLM 分析</text>
+  </g>
+
+  <text x="48" y="258" font-family="ui-monospace, SFMono-Regular, JetBrains Mono, Menlo, Consolas, monospace" font-size="12" fill="#6e7681">FastAPI · React · TypeScript · Polars · DuckDB · Docker · LLM</text>
+</svg>
