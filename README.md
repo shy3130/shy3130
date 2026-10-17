@@ -1,5 +1,5 @@
 <a href="https://github.com/shy3130">
-  <img width="100%" src="assets/wshy-header.svg" alt="wshy — 写代码 · 做开源 · 造工具" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,40:8b5cf6,75:22d3ee,100:0d1117&text=wshy&fontSize=70&fontColor=e6edf3&fontAlignY=47&animation=twinkling" alt="wshy" />
 </a>
 
 ## 💜 支持与赞助
