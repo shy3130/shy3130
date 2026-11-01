@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-01T10:19:32.393035+00:00",
+  "title": "Design System: wshy GitHub profile",
+  "extensions": {
+    "colorMeta": {
+      "publisher-cobalt": {
+        "role": "primary",
+        "displayName": "Publisher Cobalt",
+        "tonalRamp": [
+          "oklch(15% 0.0480 265.41)",
+          "oklch(26% 0.0960 265.41)",
+          "oklch(37% 0.1441 265.41)",
+          "oklch(49% 0.1921 265.41)",
+          "oklch(61% 0.1921 265.41)",
+          "oklch(73% 0.1537 265.41)",
+          "oklch(85% 0.0960 265.41)",
+          "oklch(95% 0.0384 265.41)"
+        ]
+      },
+      "night-wordmark": {
+        "role": "primary",
+        "displayName": "Night Wordmark",
+        "tonalRamp": [
+          "oklch(15% 0.0177 269.91)",
+          "oklch(26% 0.0355 269.91)",
+          "oklch(37% 0.0532 269.91)",
+          "oklch(49% 0.0710 269.91)",
+          "oklch(61% 0.0710 269.91)",
+          "oklch(73% 0.0568 269.91)",
+          "oklch(85% 0.0355 269.91)",
+          "oklch(95% 0.0142 269.91)"
+        ]
+      },
+      "night-band": {
+        "role": "primary",
+        "displayName": "Night Band",
+        "tonalRamp": [
+          "oklch(15% 0.0278 266.14)",
+          "oklch(26% 0.0555 266.14)",
+          "oklch(37% 0.0833 266.14)",
+          "oklch(49% 0.1111 266.14)",
+          "oklch(61% 0.1111 266.14)",
+          "oklch(73% 0.0889 266.14)",
+          "oklch(85% 0.0555 266.14)",
+          "oklch(95% 0.0222 266.14)"
+        ]
+      },
+      "registration-mint": {
+        "role": "secondary",
+        "displayName": "Registration Mint",
+        "tonalRamp": [
+          "oklch(15% 0.0179 180.12)",
+          "oklch(26% 0.0358 180.12)",
+          "oklch(37% 0.0536 180.12)",
+          "oklch(49% 0.0715 180.12)",
+          "oklch(61% 0.0715 180.12)",
+          "oklch(73% 0.0572 180.12)",
+          "oklch(85% 0.0358 180.12)",
+          "oklch(95% 0.0143 180.12)"
+        ]
+      },
+      "pale-stock": {
+        "role": "neutral",
+        "displayName": "Pale Stock",
+        "tonalRamp": [
+          "oklch(15% 0.0053 268.43)",
+          "oklch(26% 0.0106 268.43)",
+          "oklch(37% 0.0159 268.43)",
+          "oklch(49% 0.0212 268.43)",
+          "oklch(61% 0.0212 268.43)",
+          "oklch(73% 0.0169 268.43)",
+          "oklch(85% 0.0106 268.43)",
+          "oklch(95% 0.0042 268.43)"
+        ]
+      },
+      "navy-ink": {
+        "role": "neutral",
+        "displayName": "Navy Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0165 260.46)",
+          "oklch(26% 0.0330 260.46)",
+          "oklch(37% 0.0495 260.46)",
+          "oklch(49% 0.0661 260.46)",
+          "oklch(61% 0.0661 260.46)",
+          "oklch(73% 0.0528 260.46)",
+          "oklch(85% 0.0330 260.46)",
+          "oklch(95% 0.0132 260.46)"
+        ]
+      },
+      "white-label": {
+        "role": "neutral",
+        "displayName": "White Label",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26% 0.0000 0.00)",
+          "oklch(37% 0.0000 0.00)",
+          "oklch(49% 0.0000 0.00)",
+          "oklch(61% 0.0000 0.00)",
+          "oklch(73% 0.0000 0.00)",
+          "oklch(85% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "night-stock": {
+        "role": "neutral",
+        "displayName": "Night Stock",
+        "tonalRamp": [
+          "oklch(15% 0.0111 264.84)",
+          "oklch(26% 0.0221 264.84)",
+          "oklch(37% 0.0332 264.84)",
+          "oklch(49% 0.0442 264.84)",
+          "oklch(61% 0.0442 264.84)",
+          "oklch(73% 0.0354 264.84)",
+          "oklch(85% 0.0221 264.84)",
+          "oklch(95% 0.0088 264.84)"
+        ]
+      },
+      "night-heading": {
+        "role": "neutral",
+        "displayName": "Night Heading",
+        "tonalRamp": [
+          "oklch(15% 0.0036 264.50)",
+          "oklch(26% 0.0072 264.50)",
+          "oklch(37% 0.0108 264.50)",
+          "oklch(49% 0.0144 264.50)",
+          "oklch(61% 0.0144 264.50)",
+          "oklch(73% 0.0115 264.50)",
+          "oklch(85% 0.0072 264.50)",
+          "oklch(95% 0.0029 264.50)"
+        ]
+      },
+      "night-label": {
+        "role": "neutral",
+        "displayName": "Night Label",
+        "tonalRamp": [
+          "oklch(15% 0.0111 268.71)",
+          "oklch(26% 0.0222 268.71)",
+          "oklch(37% 0.0333 268.71)",
+          "oklch(49% 0.0444 268.71)",
+          "oklch(61% 0.0444 268.71)",
+          "oklch(73% 0.0355 268.71)",
+          "oklch(85% 0.0222 268.71)",
+          "oklch(95% 0.0089 268.71)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Outlined Wordmark",
+        "purpose": "Satoshi Bold provenance only; the shipped wordmark is vector path geometry, not runtime text."
+      },
+      "headline-desktop": {
+        "displayName": "Desktop CJK Headline",
+        "purpose": "Two-line masthead headline in SVG coordinates."
+      },
+      "headline-mobile": {
+        "displayName": "Mobile CJK Headline",
+        "purpose": "One-line masthead headline in SVG coordinates."
+      },
+      "label-desktop": {
+        "displayName": "Desktop Band Label",
+        "purpose": "Quantitative research / AI coding label in the footer band."
+      },
+      "label-mobile": {
+        "displayName": "Mobile Band Label",
+        "purpose": "Larger label for the separately composed mobile artwork."
+      }
+    },
+    "breakpoints": [
+      {
+        "name": "mobile-artwork-max",
+        "value": "600px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Masthead — Desktop Light",
+      "kind": "custom",
+      "refersTo": "masthead-desktop-light",
+      "description": "Exact 1200 × 300 source SVG. Static identity artwork; no interaction states.",
+      "html": "<svg class=\"ds-masthead-desktop-light\" xmlns=\"http://www.w3.org/2000/svg\" width=\"1200\" height=\"300\" viewBox=\"0 0 1200 300\" role=\"img\" aria-labelledby=\"ds-title-desktop-light ds-desc-desktop-light\"><title id=\"ds-title-desktop-light\">wshy — 把想法写成工具</title><desc id=\"ds-desc-desktop-light\">量化研究与 AI 编程工具。wshy 的开源作品。</desc><g font-family=\"PingFang SC,Microsoft YaHei,Noto Sans CJK SC,sans-serif\"><rect width=\"1200\" height=\"300\" rx=\"20\" fill=\"#EAF0FF\"/><g fill=\"#2850C8\" transform=\"translate(50 177) scale(0.194 -0.194)\"><path transform=\"translate(0 0)\" d=\"M172 0 12 494H139L204 282Q220 225 234 154Q245 210 268 282L336 494H460L526 282Q549 207 558 155Q569 207 591 282L657 494H786L615 0H501L433 214Q406 303 398 351Q389 308 359 212L291 0Z\"/><path transform=\"translate(797 0)\" d=\"M25 150H141Q142 117 165.0 98.5Q188 80 230.0 80.0Q272 80 295.0 96.0Q318 112 318 139Q318 179 261 192L172 213Q104 228 72.0 261.5Q40 295 40 354Q40 426 94.5 467.5Q149 509 236 509Q319 509 370.5 465.0Q422 421 423 349H307Q306 381 286.0 399.5Q266 418 231 418Q195 418 175.0 402.5Q155 387 155 359Q155 318 219 303L308 282Q372 267 402.5 236.0Q433 205 433 149Q433 75 376.0 31.0Q319 -13 226 -13Q134 -13 79.5 32.0Q25 77 25 150Z\"/><path transform=\"translate(1260 0)\" d=\"M185 0H63V744H186V430Q210 467 252.0 488.0Q294 509 346 509Q436 509 484.0 455.0Q532 401 532 304V0H410V275Q410 336 382.5 367.0Q355 398 307 398Q250 398 217.5 362.5Q185 327 185 270Z\"/><path transform=\"translate(1849 0)\" d=\"M20 -229V-127H93Q132 -127 154.5 -113.0Q177 -99 192 -58L206 -21L7 494H136L263 134L397 494H523L281 -110Q253 -179 212.5 -209.5Q172 -240 111 -240Q62 -240 20 -229Z\"/></g><text x=\"660\" y=\"96\" font-size=\"44\" font-weight=\"600\" fill=\"#203456\">把想法</text><text x=\"660\" y=\"160\" font-size=\"44\" font-weight=\"600\" fill=\"#203456\">写成工具。</text><path d=\"M0 230H1200V280Q1200 300 1180 300H20Q0 300 0 280Z\" fill=\"#2850C8\"/><text x=\"52\" y=\"275\" font-size=\"27\" fill=\"#FFFFFF\">量化研究 / AI 编程</text><path d=\"M1092 56h44v44h-44z\" fill=\"#91D5C7\"/></g></svg>",
+      "css": ".ds-masthead-desktop-light { display: block; width: 100%; height: auto; }"
+    },
+    {
+      "name": "Masthead — Desktop Dark",
+      "kind": "custom",
+      "refersTo": "masthead-desktop-dark",
+      "description": "Exact 1200 × 300 source SVG. Static identity artwork; no interaction states.",
+      "html": "<svg class=\"ds-masthead-desktop-dark\" xmlns=\"http://www.w3.org/2000/svg\" width=\"1200\" height=\"300\" viewBox=\"0 0 1200 300\" role=\"img\" aria-labelledby=\"ds-title-desktop-dark ds-desc-desktop-dark\"><title id=\"ds-title-desktop-dark\">wshy — 把想法写成工具</title><desc id=\"ds-desc-desktop-dark\">量化研究与 AI 编程工具。wshy 的开源作品。</desc><g font-family=\"PingFang SC,Microsoft YaHei,Noto Sans CJK SC,sans-serif\"><rect width=\"1200\" height=\"300\" rx=\"20\" fill=\"#182238\"/><g fill=\"#BDCEFF\" transform=\"translate(50 177) scale(0.194 -0.194)\"><path transform=\"translate(0 0)\" d=\"M172 0 12 494H139L204 282Q220 225 234 154Q245 210 268 282L336 494H460L526 282Q549 207 558 155Q569 207 591 282L657 494H786L615 0H501L433 214Q406 303 398 351Q389 308 359 212L291 0Z\"/><path transform=\"translate(797 0)\" d=\"M25 150H141Q142 117 165.0 98.5Q188 80 230.0 80.0Q272 80 295.0 96.0Q318 112 318 139Q318 179 261 192L172 213Q104 228 72.0 261.5Q40 295 40 354Q40 426 94.5 467.5Q149 509 236 509Q319 509 370.5 465.0Q422 421 423 349H307Q306 381 286.0 399.5Q266 418 231 418Q195 418 175.0 402.5Q155 387 155 359Q155 318 219 303L308 282Q372 267 402.5 236.0Q433 205 433 149Q433 75 376.0 31.0Q319 -13 226 -13Q134 -13 79.5 32.0Q25 77 25 150Z\"/><path transform=\"translate(1260 0)\" d=\"M185 0H63V744H186V430Q210 467 252.0 488.0Q294 509 346 509Q436 509 484.0 455.0Q532 401 532 304V0H410V275Q410 336 382.5 367.0Q355 398 307 398Q250 398 217.5 362.5Q185 327 185 270Z\"/><path transform=\"translate(1849 0)\" d=\"M20 -229V-127H93Q132 -127 154.5 -113.0Q177 -99 192 -58L206 -21L7 494H136L263 134L397 494H523L281 -110Q253 -179 212.5 -209.5Q172 -240 111 -240Q62 -240 20 -229Z\"/></g><text x=\"660\" y=\"96\" font-size=\"44\" font-weight=\"600\" fill=\"#F0F5FF\">把想法</text><text x=\"660\" y=\"160\" font-size=\"44\" font-weight=\"600\" fill=\"#F0F5FF\">写成工具。</text><path d=\"M0 230H1200V280Q1200 300 1180 300H20Q0 300 0 280Z\" fill=\"#2D4585\"/><text x=\"52\" y=\"275\" font-size=\"27\" fill=\"#D4E0FF\">量化研究 / AI 编程</text><path d=\"M1092 56h44v44h-44z\" fill=\"#91D5C7\"/></g></svg>",
+      "css": ".ds-masthead-desktop-dark { display: block; width: 100%; height: auto; }"
+    },
+    {
+      "name": "Masthead — Mobile Light",
+      "kind": "custom",
+      "refersTo": "masthead-mobile-light",
+      "description": "Exact 600 × 380 source SVG. Static identity artwork; no interaction states.",
+      "html": "<svg class=\"ds-masthead-mobile-light\" xmlns=\"http://www.w3.org/2000/svg\" width=\"600\" height=\"380\" viewBox=\"0 0 600 380\" role=\"img\" aria-labelledby=\"ds-title-mobile-light ds-desc-mobile-light\"><title id=\"ds-title-mobile-light\">wshy — 把想法写成工具</title><desc id=\"ds-desc-mobile-light\">量化研究与 AI 编程工具。wshy 的开源作品。</desc><g font-family=\"PingFang SC,Microsoft YaHei,Noto Sans CJK SC,sans-serif\"><rect width=\"600\" height=\"380\" rx=\"20\" fill=\"#EAF0FF\"/><g fill=\"#2850C8\" transform=\"translate(38 150) scale(0.164 -0.164)\"><path transform=\"translate(0 0)\" d=\"M172 0 12 494H139L204 282Q220 225 234 154Q245 210 268 282L336 494H460L526 282Q549 207 558 155Q569 207 591 282L657 494H786L615 0H501L433 214Q406 303 398 351Q389 308 359 212L291 0Z\"/><path transform=\"translate(797 0)\" d=\"M25 150H141Q142 117 165.0 98.5Q188 80 230.0 80.0Q272 80 295.0 96.0Q318 112 318 139Q318 179 261 192L172 213Q104 228 72.0 261.5Q40 295 40 354Q40 426 94.5 467.5Q149 509 236 509Q319 509 370.5 465.0Q422 421 423 349H307Q306 381 286.0 399.5Q266 418 231 418Q195 418 175.0 402.5Q155 387 155 359Q155 318 219 303L308 282Q372 267 402.5 236.0Q433 205 433 149Q433 75 376.0 31.0Q319 -13 226 -13Q134 -13 79.5 32.0Q25 77 25 150Z\"/><path transform=\"translate(1260 0)\" d=\"M185 0H63V744H186V430Q210 467 252.0 488.0Q294 509 346 509Q436 509 484.0 455.0Q532 401 532 304V0H410V275Q410 336 382.5 367.0Q355 398 307 398Q250 398 217.5 362.5Q185 327 185 270Z\"/><path transform=\"translate(1849 0)\" d=\"M20 -229V-127H93Q132 -127 154.5 -113.0Q177 -99 192 -58L206 -21L7 494H136L263 134L397 494H523L281 -110Q253 -179 212.5 -209.5Q172 -240 111 -240Q62 -240 20 -229Z\"/></g><text x=\"40\" y=\"226\" font-size=\"38\" font-weight=\"600\" fill=\"#203456\">把想法写成工具。</text><path d=\"M0 282H600V360Q600 380 580 380H20Q0 380 0 360Z\" fill=\"#2850C8\"/><text x=\"40\" y=\"342\" font-size=\"29\" fill=\"#FFFFFF\">量化研究 / AI 编程</text><path d=\"M516 56h38v38h-38z\" fill=\"#91D5C7\"/></g></svg>",
+      "css": ".ds-masthead-mobile-light { display: block; width: 100%; height: auto; }"
+    },
+    {
+      "name": "Masthead — Mobile Dark",
+      "kind": "custom",
+      "refersTo": "masthead-mobile-dark",
+      "description": "Exact 600 × 380 source SVG. Static identity artwork; no interaction states.",
+      "html": "<svg class=\"ds-masthead-mobile-dark\" xmlns=\"http://www.w3.org/2000/svg\" width=\"600\" height=\"380\" viewBox=\"0 0 600 380\" role=\"img\" aria-labelledby=\"ds-title-mobile-dark ds-desc-mobile-dark\"><title id=\"ds-title-mobile-dark\">wshy — 把想法写成工具</title><desc id=\"ds-desc-mobile-dark\">量化研究与 AI 编程工具。wshy 的开源作品。</desc><g font-family=\"PingFang SC,Microsoft YaHei,Noto Sans CJK SC,sans-serif\"><rect width=\"600\" height=\"380\" rx=\"20\" fill=\"#182238\"/><g fill=\"#BDCEFF\" transform=\"translate(38 150) scale(0.164 -0.164)\"><path transform=\"translate(0 0)\" d=\"M172 0 12 494H139L204 282Q220 225 234 154Q245 210 268 282L336 494H460L526 282Q549 207 558 155Q569 207 591 282L657 494H786L615 0H501L433 214Q406 303 398 351Q389 308 359 212L291 0Z\"/><path transform=\"translate(797 0)\" d=\"M25 150H141Q142 117 165.0 98.5Q188 80 230.0 80.0Q272 80 295.0 96.0Q318 112 318 139Q318 179 261 192L172 213Q104 228 72.0 261.5Q40 295 40 354Q40 426 94.5 467.5Q149 509 236 509Q319 509 370.5 465.0Q422 421 423 349H307Q306 381 286.0 399.5Q266 418 231 418Q195 418 175.0 402.5Q155 387 155 359Q155 318 219 303L308 282Q372 267 402.5 236.0Q433 205 433 149Q433 75 376.0 31.0Q319 -13 226 -13Q134 -13 79.5 32.0Q25 77 25 150Z\"/><path transform=\"translate(1260 0)\" d=\"M185 0H63V744H186V430Q210 467 252.0 488.0Q294 509 346 509Q436 509 484.0 455.0Q532 401 532 304V0H410V275Q410 336 382.5 367.0Q355 398 307 398Q250 398 217.5 362.5Q185 327 185 270Z\"/><path transform=\"translate(1849 0)\" d=\"M20 -229V-127H93Q132 -127 154.5 -113.0Q177 -99 192 -58L206 -21L7 494H136L263 134L397 494H523L281 -110Q253 -179 212.5 -209.5Q172 -240 111 -240Q62 -240 20 -229Z\"/></g><text x=\"40\" y=\"226\" font-size=\"38\" font-weight=\"600\" fill=\"#F0F5FF\">把想法写成工具。</text><path d=\"M0 282H600V360Q600 380 580 380H20Q0 380 0 360Z\" fill=\"#2D4585\"/><text x=\"40\" y=\"342\" font-size=\"29\" fill=\"#D4E0FF\">量化研究 / AI 编程</text><path d=\"M516 56h38v38h-38z\" fill=\"#91D5C7\"/></g></svg>",
+      "css": ".ds-masthead-mobile-dark { display: block; width: 100%; height: auto; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Software Publisher's Catalogue",
+    "overview": "A confident nameplate gives the author a recognizable identity; calm, open document space gives the projects room to explain themselves. Chinese copy, original English project names, and real product screenshots form an approachable technical catalogue.\n\nThis system owns the four SVG mastheads. GitHub owns the body typography, spacing, link states, heading rules, and disclosure controls. The surface strategy lives in [.impeccable/surface-briefs/profile.md](.impeccable/surface-briefs/profile.md).",
+    "keyCharacteristics": [
+      "Cobalt identity, pale stock, and one mint registration tile.",
+      "Outlined wordmark with system-rendered Chinese lettering.",
+      "Flat artwork and a single native reading column.",
+      "Paired light/dark artwork and a separately composed mobile masthead."
+    ],
+    "rules": [
+      {
+        "name": "The Paired Artwork Rule",
+        "body": "Change each semantic color role in both desktop and mobile assets, and review both themes together. The reviewed masthead text contrasts range from 5.99:1 to 14.50:1.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do keep the profile understandable when images are unavailable.",
+      "Do preserve wordmark outlines, CJK fallbacks, and all four theme/size variants.",
+      "Do verify desktop/mobile and light/dark together after visual changes.",
+      "Do keep project images linked to their repositories and document their provenance."
+    ],
+    "donts": [
+      "Don't add gradients, an animated masthead, or a badge wall.",
+      "Don't emulate a standalone website with fixed multi-column Markdown layouts.",
+      "Don't convert native headings or links into decorative image text.",
+      "Don't treat GitHub's body styling or embedded product UI as profile-owned tokens."
+    ]
+  }
+}

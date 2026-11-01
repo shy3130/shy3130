@@ -1,0 +1,6 @@
+.impeccable/review/
+.impeccable/preview/
+.impeccable/mocks/
+.impeccable/config.local.json
+__pycache__/
+.DS_Store
