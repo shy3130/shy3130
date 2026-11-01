@@ -105,7 +105,7 @@ The masthead's outer rectangle uses the frontmatter radius in SVG coordinates; i
 
 - **Masthead:** four original SVG variants under `assets/profile-*.svg`; static, with an accessible title/description and a meaningful README image alternative. The sidecar previews these exact vectors.
 - **Project entry:** native heading link, bold summary, paragraph, linked screenshot, contextual caption, and inline destinations. Preserve the same level of care for Codex Token Monitor and dsh-quota.
-- **Contents and disclosure:** ordinary GitHub anchor links and native `<details>/<summary>`. Their hover, focus, and open states belong to GitHub; there are no custom buttons, cards, or inputs.
+- **Contents and disclosure:** ordinary GitHub anchor links and native `<details>/<summary>`. Contents links target the rendered `user-content-` heading IDs so they work in the profile shell without GitHub's hash-routing enhancement. Hover, focus, and open states belong to GitHub; there are no custom buttons, cards, or inputs.
 - **Evidence images:** existing public project screenshots, embedded directly. Keep historical/demo-data captions and provenance in [assets/SOURCES.md](assets/SOURCES.md). No new raster asset ships with this redesign.
 
 ## Do's and Don'ts

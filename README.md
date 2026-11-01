@@ -9,7 +9,7 @@
 
 我做 **A 股量化研究工具**，也为 **AI 编程工作流**写插件。喜欢把日常遇到的问题，做成可以自己部署、继续扩展的开源项目。
 
-[TSP 工作台](#tick-stock-panel) / [Codex 用量](#codex-token-monitor) / [DSH 额度](#dsh-quota) / [更多工具](#更多工具) / [支持](#支持与交流)
+[TSP 工作台](#user-content-tick-stock-panel) / [Codex 用量](#user-content-codex-token-monitor) / [DSH 额度](#user-content-dsh-quota) / [更多工具](#user-content-更多工具) / [支持](#user-content-支持与交流)
 
 ## 量化工作台
 
