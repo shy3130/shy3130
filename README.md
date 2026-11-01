@@ -96,6 +96,30 @@
 <tr>
 <td>
 
+**[codex-token-monitor](https://github.com/shy3130/codex-token-monitor)** — Codex 本地用量与性能监控插件：查看 Token 消耗、各模型平均 TPS 与 API 参考费用（非实际账单），支持今日 / 7 日 / 30 日统计 · 浏览器面板 · MCP 接入 · 数据本地存储
+
+</td>
+<td width="140" align="center" valign="middle">
+
+<a href="https://github.com/shy3130/codex-token-monitor"><img src="https://img.shields.io/github/stars/shy3130/codex-token-monitor?style=for-the-badge&label=STARS&color=22d3ee&labelColor=161b22" alt="codex-token-monitor stars" /></a>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[dsh-quota](https://github.com/shy3130/dsh-quota)** — DeepSeek Harness 额度与消耗监控插件：输入框状态栏跟随当前模型切换，查看额度 / 余额、重置倒计时与 Token 用量 · 支持 GLM / OpenCode Go / Kimi / 小米 / DeepSeek
+
+</td>
+<td width="140" align="center" valign="middle">
+
+<a href="https://github.com/shy3130/dsh-quota"><img src="https://img.shields.io/github/stars/shy3130/dsh-quota?style=for-the-badge&label=STARS&color=22d3ee&labelColor=161b22" alt="dsh-quota stars" /></a>
+
+</td>
+</tr>
+<tr>
+<td>
+
 **[zcode-tps-monitor](https://github.com/shy3130/zcode-tps-monitor)** — ZCode 会话级 Token 速率监控插件：每轮回复末尾显示真实 tok/s（读取 usage 数据库），附实时监控大屏 · `/tps` 命令 · MCP 工具
 
 </td>
