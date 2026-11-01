@@ -34,4 +34,4 @@ Public repository READMEs, the incumbent profile, existing SVG assets, and publi
 
 ## Open decisions
 
-The user has not specified a palette. Design choices are delegated through the redesign request. The proposed works-first hierarchy remains an assumption unless the user requests a different sponsorship position.
+The user has not specified a palette. Design choices are delegated through the redesign request. The user explicitly confirmed that sponsorship must be prominent in the first viewport; RunningHub and the personal support destination appear immediately after the masthead.

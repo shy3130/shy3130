@@ -5,6 +5,15 @@
   <img src="assets/profile-light.svg" width="100%" alt="wshy — 把想法写成工具。量化研究与 AI 编程工具。">
 </picture>
 
+<a href="https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/sponsor-mobile.svg">
+    <img src="assets/sponsor.svg" width="100%" alt="RunningHub API — 开源项目赞助支持。点击了解 RunningHub API。">
+  </picture>
+</a>
+
+感谢 [**RunningHub**](https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c) 赞助支持 · [了解 API](https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c) · [爱发电支持我](https://afdian.com/a/shy3130)
+
 # 你好，我是 wshy
 
 我做 **A 股量化研究工具**，也为 **AI 编程工作流**写插件。喜欢把日常遇到的问题，做成可以自己部署、继续扩展的开源项目。
@@ -79,10 +88,6 @@ ZCode 会话级 Token 速率监控。读取 usage 数据库，在调用工具的
 ## 支持与交流
 
 项目的问题和想法，欢迎到对应仓库提 Issue。觉得有用，也可以留一个 Star，或通过 [爱发电](https://afdian.com/a/shy3130) 支持后续开发。
-
-感谢 **[RunningHub](https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c)** 对开源项目的支持。
-
-[了解 RunningHub API](https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c)
 
 <details>
 <summary>GitHub 贡献记录</summary>

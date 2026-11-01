@@ -9,4 +9,6 @@ Project screenshots remain in their original public repositories and are embedde
 - dsh-quota: `docs/images/hero.png` on `shy3130/dsh-quota`, showing the public project screenshots and their historical values.
 - Contribution animation: the existing `output` branch of this repository, maintained by the existing snake workflow.
 
-No generated or newly copied raster images are shipped by this redesign. Existing sponsor and TSP SVG assets are preserved for reuse but are not shown in the redesigned profile.
+The compact `sponsor.svg` and `sponsor-mobile.svg` banners reuse the existing RunningHub icon and wordmark paths from `runninghub-banner-v3.svg`. The layout is new; the existing brand marks and lime identity are preserved. The banner contains no price, discount, or model-count claims.
+
+No generated or newly copied raster images are shipped by this redesign. Original sponsor and TSP SVG assets are preserved for reuse.
