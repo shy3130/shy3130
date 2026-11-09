@@ -3,7 +3,7 @@
   <img src="assets/hero-light.svg" alt="wshy — 写代码 · 做开源 · 造工具" width="100%">
 </picture>
 
-独立开发者，2014 年入驻 GitHub。长期做 A 股量化工具与 LLM 工具链 —— 偏好自托管、可编程，喜欢把核心能力开放成接口，不喜欢把工具做成黑盒。
+2014 年入驻 GitHub，长期做 A 股量化工具与 LLM 工具链 —— 偏好自托管、可编程，喜欢把核心能力开放成接口，不喜欢把工具做成黑盒。
 
 ## 01 — 精选作品
 
@@ -13,7 +13,7 @@
 
 `Python` `FastAPI` `React` `TypeScript` `Polars` `DuckDB`
 
-65 个开放 API · 12 个 MCP 工具 · 2400+ 测试 · 单容器部署 · [官网 tsp.shy313.com](https://tsp.shy313.com)
+65 个开放 API · 12 个 MCP 工具 · 3000+ 测试 · 单容器部署 · [官网 tsp.shy313.com](https://tsp.shy313.com)
 
 ## 02 — 开源项目
 
