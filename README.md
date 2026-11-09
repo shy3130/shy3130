@@ -1,54 +1,73 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="wshy — 写代码 · 做开源 · 造工具" width="100%">
+  <source media="(max-width: 640px)" srcset="assets/hero-mobile.svg">
+  <img src="assets/hero.svg" alt="wshy — 独立开发者；写代码，做开源，造工具。2014 年加入 GitHub。" width="100%">
 </picture>
 
-2014 年入驻 GitHub，长期做 A 股量化工具与 LLM 工具链。偏好自托管与开放接口 —— 数据留在本地，能力开放成 API，不做黑盒。
+我是 **wshy**，2014 年加入 GitHub。做 A 股量化工具，也做 AI 工具链与插件。
+
+偏好自托管、开放接口和本地数据。把自己用得上的东西做好，再分享给需要的人。
+
+## 作品集
+
+<a href="https://github.com/shy3130/tick-stock-panel">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/feature-mobile.svg">
+  <img src="assets/feature.svg" alt="tick-stock-panel — 自托管的 A 股量化工作台。策略、监控、回测、因子与 AI 复盘；Open API 与 MCP 开放能力。" width="100%">
+</picture>
+</a>
+
+[项目源码](https://github.com/shy3130/tick-stock-panel) · [访问官网](https://tsp.shy313.com) · [![tick-stock-panel Stars](https://img.shields.io/github/stars/shy3130/tick-stock-panel?style=flat-square&label=Stars&labelColor=273547&color=8ce9e3)](https://github.com/shy3130/tick-stock-panel/stargazers)
+
+### AI 与开发者工具
+
+<a href="https://github.com/shy3130/dsh-quota">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/dsh-mobile.svg">
+  <img src="assets/dsh.svg" alt="dsh-quota — DeepSeek Harness 多厂商额度、余额与 Token 用量监控，随当前模型切换。" width="100%">
+</picture>
+</a>
+
+<a href="https://github.com/shy3130/zcode-tps-monitor">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/zcode-mobile.svg">
+  <img src="assets/zcode.svg" alt="zcode-tps-monitor — ZCode 每轮真实 tok/s、会话走势与实时监控大屏。" width="100%">
+</picture>
+</a>
+
+<a href="https://github.com/shy3130/codex-token-monitor">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/codex-mobile.svg">
+  <img src="assets/codex.svg" alt="codex-token-monitor — Codex 本地 Token、TPS 与 API 参考费用监控，参考费用不代表实际账单。" width="100%">
+</picture>
+</a>
+
+<a href="https://github.com/shy3130/stealth-browser-skill">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/browser-mobile.svg">
+  <img src="assets/browser.svg" alt="stealth-browser-skill — 面向 AI Agent 的反检测浏览器自动化技能。" width="100%">
+</picture>
+</a>
+
+<details>
+<summary>技术栈与贡献轨迹</summary>
+
+Python · TypeScript · React · FastAPI · Polars · DuckDB · Docker · GitHub Actions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg">
-  <img src="assets/contrib-light.svg" alt="贡献行情 — 近 52 周贡献蜡烛图" width="100%">
+  <img src="assets/contrib-light.svg" alt="近 52 周贡献蜡烛图，2026 年 11 月 9 日数据快照" width="100%">
 </picture>
-<p align="right"><sub>▲ 贡献行情 · 近 52 周 · 红涨绿跌 · GitHub 实时数据</sub></p>
 
-## 01 — 精选作品
+<sub>近 52 周贡献快照 · 2026-11-09 · 红涨绿跌；最新贡献见 GitHub 原生贡献图。</sub>
 
-<a href="https://github.com/shy3130/tick-stock-panel">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/feature-dark.svg">
-    <img src="assets/feature-light.svg" alt="tick-stock-panel — 自托管、零运维的 A 股量化工作台" width="100%">
-  </picture>
-</a>
+</details>
 
-策略编写与历史回放、全市场毫秒级扫描、实时盯盘、因子挖掘，以及 LLM 驱动的个股分析与复盘 —— 核心能力全部开放为 Open API 与 MCP 工具。
+## 支持开源
 
-![](https://img.shields.io/github/stars/shy3130/tick-stock-panel?style=flat-square) ![](https://img.shields.io/github/forks/shy3130/tick-stock-panel?style=flat-square) [官网 tsp.shy313.com](https://tsp.shy313.com)
+持续维护得到 [RunningHub API](https://www.runninghub.ai/zh-cn/call-api/llm/models?source=github&inviteCode=edt5wh7c) 的支持。
 
-## 02 — 开源项目
-
-| 项目 | Stars | 说明 |
-| --- | --- | --- |
-| [codex-token-monitor](https://github.com/shy3130/codex-token-monitor) | ![](https://img.shields.io/github/stars/shy3130/codex-token-monitor?style=flat-square) | Codex 本地用量与性能监控：Token 消耗、平均 TPS 与 API 参考费用 |
-| [dsh-quota](https://github.com/shy3130/dsh-quota) | ![](https://img.shields.io/github/stars/shy3130/dsh-quota?style=flat-square) | DeepSeek Harness 多厂商额度监控插件：GLM / Kimi / DeepSeek 余额与消耗 |
-| [zcode-tps-monitor](https://github.com/shy3130/zcode-tps-monitor) | ![](https://img.shields.io/github/stars/shy3130/zcode-tps-monitor?style=flat-square) | ZCode 会话级真实 tok/s 监控，附实时监控大屏与 MCP 工具 |
-| [stealth-browser-skill](https://github.com/shy3130/stealth-browser-skill) | ![](https://img.shields.io/github/stars/shy3130/stealth-browser-skill?style=flat-square) | 面向 AI Agent 的反检测浏览器自动化技能 |
-
-## 03 — 技术栈
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,react,fastapi,docker,githubactions&theme=dark">
-    <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,docker,githubactions&theme=light" alt="Python · TypeScript · React · FastAPI · Docker · GitHub Actions">
-  </picture>
-</p>
-<p align="center"><sub>+ POLARS · DUCKDB · SELF-HOSTED</sub></p>
-
-## 04 — 支持
-
-持续维护由 [RunningHub API](https://www.runninghub.ai/zh-cn/call-api/llm/models?source=github&inviteCode=edt5wh7c) 提供支持：单一接口接入 400+ 主流大模型，支持免费测试。
-
-如果 [tick-stock-panel](https://github.com/shy3130/tick-stock-panel) 对你有帮助，欢迎在 [爱发电](https://afdian.com/a/shy3130) 请我喝一杯。
+如果这些项目对你有帮助，欢迎在 [爱发电](https://afdian.com/a/shy3130) 支持我继续做点有用的东西。
 
 ---
 
-<p align="center"><sub>WSHY · EST. 2014 · 写代码 · 做开源 · 造工具</sub></p>
+<p align="center"><sub>wshy · 写代码。做开源。造工具。</sub></p>
