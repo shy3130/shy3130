@@ -30,7 +30,7 @@ Python · TypeScript · Polars · FastAPI · React · DuckDB · Docker · GitHub
 
 ## 04 — 支持
 
-持续维护由 [RunningHub API](https://www.runninghub.ai/zh-cn/call-api/llm/models?source=github&inviteCode=edt5wh7c) 提供支持：单一接口接入 400+ 主流大模型，注册即赠体验额度。
+持续维护由 [RunningHub API](https://www.runninghub.ai/zh-cn/call-api/llm/models?source=github&inviteCode=edt5wh7c) 提供支持：单一接口接入 400+ 主流大模型，支持免费测试。
 
 如果 [tick-stock-panel](https://github.com/shy3130/tick-stock-panel) 对你有帮助，欢迎在 [爱发电](https://afdian.com/a/shy3130) 请我喝一杯。
 
