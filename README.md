@@ -5,6 +5,12 @@
 
 2014 年入驻 GitHub，长期做 A 股量化工具与 LLM 工具链。偏好自托管与开放接口 —— 数据留在本地，能力开放成 API，不做黑盒。
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg">
+  <img src="assets/contrib-light.svg" alt="贡献行情 — 近 52 周贡献蜡烛图" width="100%">
+</picture>
+<p align="right"><sub>▲ 贡献行情 · 近 52 周 · 红涨绿跌 · GitHub 实时数据</sub></p>
+
 ## 01 — 精选作品
 
 <a href="https://github.com/shy3130/tick-stock-panel">
@@ -16,20 +22,26 @@
 
 策略编写与历史回放、全市场毫秒级扫描、实时盯盘、因子挖掘，以及 LLM 驱动的个股分析与复盘 —— 核心能力全部开放为 Open API 与 MCP 工具。
 
-![Stars](https://img.shields.io/github/stars/shy3130/tick-stock-panel?style=social) ![Forks](https://img.shields.io/github/forks/shy3130/tick-stock-panel?style=social) [官网 tsp.shy313.com](https://tsp.shy313.com)
+![](https://img.shields.io/github/stars/shy3130/tick-stock-panel?style=flat-square) ![](https://img.shields.io/github/forks/shy3130/tick-stock-panel?style=flat-square) [官网 tsp.shy313.com](https://tsp.shy313.com)
 
 ## 02 — 开源项目
 
 | 项目 | Stars | 说明 |
 | --- | --- | --- |
-| [codex-token-monitor](https://github.com/shy3130/codex-token-monitor) | ![Stars](https://img.shields.io/github/stars/shy3130/codex-token-monitor?style=social) | Codex 本地用量与性能监控：Token 消耗、平均 TPS 与 API 参考费用 |
-| [dsh-quota](https://github.com/shy3130/dsh-quota) | ![Stars](https://img.shields.io/github/stars/shy3130/dsh-quota?style=social) | DeepSeek Harness 多厂商额度监控插件：GLM / Kimi / DeepSeek 余额与消耗 |
-| [zcode-tps-monitor](https://github.com/shy3130/zcode-tps-monitor) | ![Stars](https://img.shields.io/github/stars/shy3130/zcode-tps-monitor?style=social) | ZCode 会话级真实 tok/s 监控，附实时监控大屏与 MCP 工具 |
-| [stealth-browser-skill](https://github.com/shy3130/stealth-browser-skill) | ![Stars](https://img.shields.io/github/stars/shy3130/stealth-browser-skill?style=social) | 面向 AI Agent 的反检测浏览器自动化技能 |
+| [codex-token-monitor](https://github.com/shy3130/codex-token-monitor) | ![](https://img.shields.io/github/stars/shy3130/codex-token-monitor?style=flat-square) | Codex 本地用量与性能监控：Token 消耗、平均 TPS 与 API 参考费用 |
+| [dsh-quota](https://github.com/shy3130/dsh-quota) | ![](https://img.shields.io/github/stars/shy3130/dsh-quota?style=flat-square) | DeepSeek Harness 多厂商额度监控插件：GLM / Kimi / DeepSeek 余额与消耗 |
+| [zcode-tps-monitor](https://github.com/shy3130/zcode-tps-monitor) | ![](https://img.shields.io/github/stars/shy3130/zcode-tps-monitor?style=flat-square) | ZCode 会话级真实 tok/s 监控，附实时监控大屏与 MCP 工具 |
+| [stealth-browser-skill](https://github.com/shy3130/stealth-browser-skill) | ![](https://img.shields.io/github/stars/shy3130/stealth-browser-skill?style=flat-square) | 面向 AI Agent 的反检测浏览器自动化技能 |
 
 ## 03 — 技术栈
 
-Python · TypeScript · Polars · FastAPI · React · DuckDB · Docker · GitHub Actions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,react,fastapi,docker,githubactions&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,docker,githubactions&theme=light" alt="Python · TypeScript · React · FastAPI · Docker · GitHub Actions">
+  </picture>
+</p>
+<p align="center"><sub>+ POLARS · DUCKDB · SELF-HOSTED</sub></p>
 
 ## 04 — 支持
 
@@ -39,4 +51,4 @@ Python · TypeScript · Polars · FastAPI · React · DuckDB · Docker · GitHub
 
 ---
 
-<p align="center"><sub>写代码 · 做开源 · 造工具</sub></p>
+<p align="center"><sub>WSHY · EST. 2014 · 写代码 · 做开源 · 造工具</sub></p>
