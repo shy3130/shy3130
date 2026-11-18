@@ -10,6 +10,8 @@
 
 <p align="center">感谢 <b>Modelflare</b> 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障；单笔充值 US$20 解锁 GPT 0.015x，US$50 解锁 Claude 0.03x。<a href="https://modelflare.dev/sign-up?partner=CFYSN0AM2APC" target="_blank" rel="noopener noreferrer"><b>专属链接注册</b></a></p>
 
+---
+
 <a href="https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c" target="_blank" rel="noopener noreferrer">
   <img src="assets/runninghub-banner-v8.svg?v=2" alt="RunningHub API — 一个 API Key 直连 400+ 主流大模型" width="100%">
 </a>
