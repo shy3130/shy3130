@@ -53,8 +53,8 @@
 
       <line x1="616" y1="196" x2="616" y2="228" stroke="#28330f" stroke-width="1"/>
 
-      <text x="640" y="212" font-size="24" font-weight="700" fill="#CCFF00" font-family="Arial,sans-serif">0.21 <tspan font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif">元/秒起</tspan></text>
-      <text x="640" y="230" font-size="11.5" fill="#a8b894">Seedance 满血版在线工具</text>
+      <text x="640" y="212" font-size="24" font-weight="700" fill="#CCFF00" font-family="Arial,sans-serif"><tspan font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif">低至 </tspan>¥0.15<tspan font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',Arial,sans-serif">/秒</tspan></text>
+      <text x="640" y="230" font-size="11.5" fill="#a8b894">Seedance 2.5 满血版在线工具</text>
 
       <line x1="912" y1="196" x2="912" y2="228" stroke="#28330f" stroke-width="1"/>
 
