@@ -8,15 +8,7 @@
   <img src="assets/runninghub-banner-v8.svg?v=1" alt="RunningHub API — 一个 API Key 直连 400+ 主流大模型" width="100%">
 </a>
 
-<p align="center">我的开源项目由赞助商 <b><a href="https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c" target="_blank" rel="noopener noreferrer">RunningHub</a></b> 提供支持 · 一个 API Key 直连 400+ 主流大模型 · <a href="https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c" target="_blank" rel="noopener noreferrer"><b>立即免费测试 →</b></a></p>
-
-<p align="center">
-  <a href="https://afdian.com/a/shy3130">
-    <img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-a%2Fshy3130-946ce6?style=for-the-badge&labelColor=161b22" alt="爱发电 afdian.com/a/shy3130" />
-  </a>
-</p>
-
-<p align="center"><sub>如果 tick-stock-panel 对你有帮助，欢迎到爱发电支持我 ☕</sub></p>
+<p align="center">项目由赞助商 <b><a href="https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c" target="_blank" rel="noopener noreferrer">RunningHub</a></b> 提供支持 · 一个 API Key 直连 400+ 主流大模型 · <a href="https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c" target="_blank" rel="noopener noreferrer"><b>立即免费测试 →</b></a></p>
 
 ## 🚀 tick-stock-panel · A 股智能量化工作台
 
