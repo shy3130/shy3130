@@ -8,7 +8,7 @@
   <img src="assets/runninghub-banner-v8.svg?v=1" alt="RunningHub API — 一个 API Key 直连 400+ 主流大模型" width="100%">
 </a>
 
-<p align="center">**我的开源项目由赞助商 [RunningHub](https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c) 提供支持** · 一个 API Key 直连 400+ 主流大模型 · [立即免费测试 →](https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c)</p>
+<p align="center">我的开源项目由赞助商 <b><a href="https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c" target="_blank" rel="noopener noreferrer">RunningHub</a></b> 提供支持 · 一个 API Key 直连 400+ 主流大模型 · <a href="https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c" target="_blank" rel="noopener noreferrer"><b>立即免费测试 →</b></a></p>
 
 <p align="center">
   <a href="https://afdian.com/a/shy3130">
