@@ -18,6 +18,18 @@
 
 <p align="center">项目由赞助商 <b><a href="https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c" target="_blank" rel="noopener noreferrer">RunningHub</a></b> 提供支持 · 一个 API Key 直连 400+ 主流大模型 · <a href="https://www.runninghub.ai/zh-cn/call-api?source=github&inviteCode=edt5wh7c" target="_blank" rel="noopener noreferrer"><b>立即免费测试 →</b></a></p>
 
+---
+
+<a href="https://console.x6.ai/register?code=tuSkEebA" target="_blank" rel="noopener noreferrer">
+  <img src="assets/x6-ai-banner-zh.png" alt="x6.ai · 一个 Key 直连 100+ 模型 · ¥33 包月" width="100%">
+</a>
+
+<p align="center">
+  <b>合作伙伴 x6.ai</b> · 一个 Key 直连 Claude、GPT、Gemini、Grok 及国产主流模型等 100+ 模型，缓存命中率保底 91%。<br>
+  专用客户端一键下载登录，免配置。会员 US$5/月起，支持支付宝、Visa 和万事达卡。<br>
+  <a href="https://console.x6.ai/register?code=tuSkEebA" target="_blank" rel="noopener noreferrer"><b>专属链接注册，领 8 折、9 折优惠券 →</b></a>
+</p>
+
 ## 🚀 tick-stock-panel · A 股智能量化工作台
 
 <a href="https://github.com/shy3130/tick-stock-panel">
